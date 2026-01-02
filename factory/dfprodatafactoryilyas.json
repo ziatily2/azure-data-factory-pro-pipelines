@@ -1,0 +1,9 @@
+{
+	"name": "dfprodatafactoryilyas",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a8ae6c7-edd7-41c0-acb2-f881f7d221f1",
+		"tenantId": "d6f47926-a980-42d5-b830-80ca77440b8c"
+	}
+}
